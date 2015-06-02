@@ -1,0 +1,17 @@
+// My_CDialog1.idl : My_CDialog1 的 IDL 源
+//
+
+// 此文件将由 MIDL 工具处理以
+// 产生类型库(My_CDialog1.tlb)和封送处理代码。
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(625914D2-A632-4211-92FA-BC5B95B1E91E),
+	version(1.0)	
+]
+library My_CDialog1Lib
+{
+	importlib("stdole2.tlb");
+};

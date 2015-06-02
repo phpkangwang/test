@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		'%APPID%' = s 'My_CDialog1'
+				'My_CDialog1.EXE'
+				{
+			val AppID = s '%APPID%'
+		}
+	}
+}

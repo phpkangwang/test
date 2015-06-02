@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Theard", "Theard\Theard.vcxproj", "{016F8AEF-D971-4D9C-9DD4-C82C5C04997A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016F8AEF-D971-4D9C-9DD4-C82C5C04997A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{016F8AEF-D971-4D9C-9DD4-C82C5C04997A}.Debug|Win32.Build.0 = Debug|Win32
+		{016F8AEF-D971-4D9C-9DD4-C82C5C04997A}.Release|Win32.ActiveCfg = Release|Win32
+		{016F8AEF-D971-4D9C-9DD4-C82C5C04997A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
